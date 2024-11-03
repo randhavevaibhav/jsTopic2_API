@@ -3,8 +3,6 @@ const { Client } = pg;
 import dotenv from "dotenv";
 dotenv.config();
 
-console.log(process.env.DB_USER);
-
 export const createDBconn = async () => {
   try {
     const client = new Client({
