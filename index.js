@@ -6,6 +6,7 @@ const app = express();
 const port = 3004;
 
 // Middleware for parsing request body
+
 app.use(express.json());
 
 //Middleware for CORS POLICY
