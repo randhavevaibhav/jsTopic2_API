@@ -18,21 +18,9 @@ DATABASE=<database>
 
 ```
 nodemon
-
 ```
 
 ## Deployment on vercel
-
-<style>
-
-.imp{
-    color:red;
-    font-size:1.2rem;
-    letter-spacing:1px;
-    font-weight:800;
-
-}
-    </style>
 
 #### IMP only deploy through command line.
 
