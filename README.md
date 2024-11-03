@@ -37,5 +37,5 @@ vercel
 command ===>
 
 ```
-vercel deploy
+vercel --prod
 ```
